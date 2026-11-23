@@ -1,0 +1,24 @@
+# Pliki pomocnicze LaTeX
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.tcp
+*.tps
+
+# Kopie zapasowe draw.io
+*.drawio.bkp
+*.drawio.dtmp
+
+# Kopie zapasowe bazy
+*.bak
+
+# Pliki systemowe
+Thumbs.db
+desktop.ini
+.vs/
